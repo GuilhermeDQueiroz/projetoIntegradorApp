@@ -17,7 +17,7 @@ Nosso objetivo com o Coliseum FIt App é o desenvolvimento de um aplicativo para
 - Dart
 - Flutter
 
-## 📲 Instalar o Gym App
+## 📲 Instalar o Coliseum Fit App
 Se você quiser testar o app em "produção", o apk está disponível abaixo: 
 - [EM BREVE]
 
