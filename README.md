@@ -28,7 +28,7 @@ Para rodar este projeto no "modo desenvolvedor", você precisa ter o ambiente b�
 ## Instalando 
 ### Clonando o repositório
 ```
-git clone https://github.com/GuilhermeDQueiroz/projetoIntegradorApp
+git clone https://github.com/GuilhermeDQueiroz/projetoIntegradorApp.git
 
 cd projetoIntegradorApp-main
 ```
