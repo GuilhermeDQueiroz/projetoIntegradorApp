@@ -28,9 +28,9 @@ Para rodar este projeto no "modo desenvolvedor", você precisa ter o ambiente b�
 ## Instalando 
 ### Clonando o repositório
 ```
-git clone https://github.com/ricarthlima/flutter-gym-app-dotcode.git
+git clone https://github.com/GuilhermeDQueiroz/projetoIntegradorApp
 
-cd flutter-gym-app-dotcode
+cd projetoIntegradorApp-main
 ```
 
 ### Rodando 
