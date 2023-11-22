@@ -6,12 +6,6 @@
 ## 🧐 Sobre o projeto
 Nosso objetivo com o Coliseum FIt App é o desenvolvimento de um aplicativo para ajudar tanto o aluno quanto o personal trainer nos treinos, através de algumas features que **pretendemos implementar** como:
 
-- Agendamento de Horários;
-- Gerenciamento de Treinos e Exercícios;
-- Histórico/Gráficos de Medidas Antropométricas;
-- Sistema de Chat;
-- Sistema de Notificações.
-
 ## 👩‍💻 Tecnologias Usadas
 
 - Dart
