@@ -28,6 +28,9 @@ cd projetoIntegradorApp-main; cd coliseum_fit
 
 ### Rodando 
 ```
+flutter clean
+flutter pub get
+flutter upgrade
 flutter run
 ```
 Mais informações [aqui](https://flutter.dev/docs/get-started/test-drive?tab=vscode).
