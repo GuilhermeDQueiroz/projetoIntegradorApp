@@ -1,7 +1,6 @@
 # Coliseum Fit App 💪
 
-## Site do projeto [aqui](https://flutter.dev/docs/get-started/install). 
-[EM BREVE]
+## 🌐 Site do projeto [aqui](https://coliseumfit.netlify.app/)
 
 ## 🧐 Sobre o projeto
 Nosso objetivo com o Coliseum FIt App é o desenvolvimento de um aplicativo para ajudar tanto o aluno quanto o personal trainer nos treinos, através de algumas features que **pretendemos implementar** como:
