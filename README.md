@@ -23,7 +23,7 @@ Para rodar este projeto no "modo desenvolvedor", vocÃª precisa ter o ambiente bÃ
 ```
 git clone https://github.com/GuilhermeDQueiroz/projetoIntegradorApp.git
 
-cd projetoIntegradorApp-main
+cd projetoIntegradorApp-main; cd coliseum_fit
 ```
 
 ### Rodando 
