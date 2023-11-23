@@ -1,6 +1,6 @@
 # Coliseum Fit App 💪
 
-## Screenshots e Screencast
+## Site do projeto [aqui](https://flutter.dev/docs/get-started/install). 
 [EM BREVE]
 
 ## 🧐 Sobre o projeto
